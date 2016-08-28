@@ -1,6 +1,13 @@
 [package]
 name = "srec"
 version = "0.1.0"
-authors = ["Matt"]
+authors = ["Matt Bettcher <mattbettcher@gmail.com>"]
+description = "Motorola S-Record filetype reader."
+repository = "https://github.com/mattbettcher/srec.git"
+homepage = "https://github.com/mattbettcher/srec"
+documentation = "https://github.com/mattbettcher/srec/"
+readme = "README.md"
+keywords = ["srec"]
+license = "MIT/Apache-2.0"
 
 [dependencies]
