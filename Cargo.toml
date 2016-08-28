@@ -1,0 +1,6 @@
+[package]
+name = "srec"
+version = "0.1.0"
+authors = ["Matt"]
+
+[dependencies]
